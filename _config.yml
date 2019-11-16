@@ -107,7 +107,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "NetRunner"
+  name             : "netrunner"
   avatar           : "/assets/images/bio-photo.jpg"
   bio              : "I am an **amazing** person."
   location         : "Moscow"
