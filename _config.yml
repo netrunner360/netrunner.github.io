@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "All about the network"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "NetRunner"
+name                     : "netrunner"
 description              : "Commit & Quit"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -109,7 +109,7 @@ analytics:
 author:
   name             : "netrunner"
   avatar           : "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
+  bio              : "Commit & Quit."
   location         : "Moscow"
   email            :
   links:
