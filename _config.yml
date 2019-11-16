@@ -110,7 +110,7 @@ author:
   name             : "netrunner"
   avatar           : "/assets/images/bio-photo.jpg"
   bio              : "Commit & Quit."
-  location         : "Moscow. Russia."
+  location         : #""
   email            :
   links:
     - label: "Email"
